@@ -1,6 +1,6 @@
 ## PDF to Speech (Python) — Türkçe / English
 
-### Öz (TR)
+### Özet (TR)
 - Bu betik, seçtiğiniz bir PDF dosyasından metni çıkarır ve gTTS ile MP3 ses dosyasına dönüştürür.
 - Ücretsiz çalışır; API anahtarı gerektirmez.
 - İnternet bağlantısı gereklidir (gTTS çevrimiçi hizmet kullanır).
